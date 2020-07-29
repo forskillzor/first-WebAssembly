@@ -1,14 +1,15 @@
 #include<iostream>
+#include<string>
 
 int main ()
 {
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
-    std::cout << "Hello World!" << "\n";
+    std::string haudi("skillzor");
+
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
+    std::cout << haudi << "\n";
 }
